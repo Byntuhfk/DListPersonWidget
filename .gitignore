@@ -1,0 +1,48 @@
+# Папки Python
+__pycache__/
+*.pyc
+*.pyo
+.python-version
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+.dvenv/
+dvenv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp
+
+# Конфиги с секретами
+config.ini
+secrets.json
+*.local
+
+# XML
+.xml/
+xml/
+
+# Image
+.img/
+img/
+
+# GIT
+.git/
+git/
+
+# Test
+.test/
+test/
+test1.py
